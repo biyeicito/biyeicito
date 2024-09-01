@@ -21,3 +21,13 @@ Hi, I'm Alexander (Biyei)!
 </p>
 
 <hr>
+
+<pre>
+💻 I am a self taught Full Stack Developer
+📚 I have completed several courses and internships to reach my current level as a full stack developer.
+📝 I am very interested in web design, creating interactive visual interfaces and backend development.
+🔭 Working on Deep Learning
+🌟 Main languages: Python, JavaScript, PHP, Lua, C#
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://biyei.net" target="_blank">MY PORTFOLIO</a>
+</pre>
+<hr>
