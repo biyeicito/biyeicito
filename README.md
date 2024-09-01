@@ -16,7 +16,7 @@ Hi, I'm Alexander (Biyei)!
 <br/>
 <p align="center">
 	<a href="https://github.com/biyeicito">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer+with+autonomous+knowledge;ES+%7C+EN+Languages+I+speak;Quick+fox+jumpAlways+learning+new+thingss+nightly+above+wizard">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer+with+autonomous+knowledge;ES+%7C+EN+Languages+I+speak;Always+learning+new+thingss+nightly+above+wizard">
 	</a>
 </p>
 
