@@ -77,3 +77,26 @@ Tech Stack
 </td></tr></table>
 
 <br/>  
+
+<h1 align="center">
+Connect with me
+</h1>
+
+<div align="center">
+<a href="https://github.com/biyeicito" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/biyeicito" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br/>
+<div align="center" style="display:inline-block;flex-wrap:nowrap";>
+<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=biyeicito&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
+
+</div>
