@@ -32,7 +32,10 @@ Hi, I'm Alexander (Biyei)!
 </pre>
 <hr>
 
-## Tech Stack
+<h1 align="center">
+Tech Stack
+</h1>
+
 
 <table align="center">
 <tr><td align="top" width="33%">
