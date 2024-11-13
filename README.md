@@ -23,7 +23,7 @@ Hi, I'm Alexander (Biyei)!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer
+💻 I am a self taught Front-End Developer
 📚 I have completed several courses and internships to reach my current level as a full stack developer.
 📝 I am very interested in web design, creating interactive visual interfaces and backend development.
 🔭 Working on Deep Learning
